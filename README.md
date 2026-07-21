@@ -20,7 +20,7 @@ Sitio web desarrollado como proyecto de residencias profesionales.
 - Horarios
 - Fichas de pago
 
-## Capturas del proyecto
+## Captura del proyecto
 
 ![Inicio](screenshots/inicio.jpeg)
 
