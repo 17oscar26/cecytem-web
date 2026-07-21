@@ -1,8 +1,9 @@
-CECYTEM Plantel La Paz
+# CECYTEM Plantel La Paz
 
-Sitio web desarrollado como proyecto de recidencias profesionales.
+Sitio web desarrollado como proyecto de residencias profesionales.
 
-Tecnologías utilizadas:
+## Tecnologías utilizadas
+
 - HTML5
 - CSS3
 - JavaScript
@@ -10,10 +11,17 @@ Tecnologías utilizadas:
 - MySQL
 - Bootstrap
 
-Funciones:
+## Funciones
+
 - Noticias
 - Galería
 - Contacto
 - Reinscripción
 - Horarios
 - Fichas de pago
+
+## Capturas del proyecto
+
+![Inicio](screenshots/inicio.jpeg)
+
+
